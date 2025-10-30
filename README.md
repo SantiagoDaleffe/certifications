@@ -8,5 +8,5 @@
 - **Supervised Machine Learning: Regression and Classification** – (2024)
 
 ## Kaggle Micro-Courses
-- Python | Pandas | Machine Learning | Deep Learning | Data Visualization  
+- Python | Pandas | Machine Learning | Deep Learning | Data Visualization | ...
   *(2023–2024)*
